@@ -18,3 +18,34 @@ console.log(f2());*/
 var t2 = t;
 t[1] = 23;
 console.log(t);*/
+
+/*var Matyi = {
+  kor: 23,
+  nev: 'Matyi',
+  sir: function(){
+  console.log("Oaa");
+  }
+}
+
+Matyi.koszon = function(){
+  console.log("Szia");
+}
+
+Matyi.bemutatkozas = function(){
+  console.log("szia")
+}
+console.log(Matyi);*/
+
+/*function f(a,b){
+  console.log(arguments);
+  
+  var sum = 0;
+  
+  for(var i int arguments.length; i++)
+    {
+      sum += arguments[i];
+    }
+  
+  console.log(sum);
+}
+SUM(3, 4, 5, 13, 45, 56);*/
